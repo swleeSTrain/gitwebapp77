@@ -1,0 +1,7 @@
+C:\신라대이상원\vscgit\bin\Release\net6.0\publish\vscgit.exe
+C:\신라대이상원\vscgit\bin\Release\net6.0\publish\appsettings.Development.json
+C:\신라대이상원\vscgit\bin\Release\net6.0\publish\appsettings.json
+C:\신라대이상원\vscgit\bin\Release\net6.0\publish\vscgit.dll
+C:\신라대이상원\vscgit\bin\Release\net6.0\publish\vscgit.deps.json
+C:\신라대이상원\vscgit\bin\Release\net6.0\publish\vscgit.runtimeconfig.json
+C:\신라대이상원\vscgit\bin\Release\net6.0\publish\vscgit.pdb

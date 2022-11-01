@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3a22a80b-c0fc-4651-9657-36a14cbfb408/resourceGroups/swlee22/providers/Microsoft.Web/sites/vscwebappgit22"
+}
